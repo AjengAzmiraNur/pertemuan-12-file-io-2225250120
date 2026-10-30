@@ -15,7 +15,7 @@ Praktikum ini membahas penggunaan file untuk menyimpan dan membaca data mengguna
 ## Struktur Folder
 
 ```text
-pertemuan-12-file-io-2225250042/
+pertemuan-12-file-io-2225250120/
 ├── README.md
 ├── .gitignore
 ├── data/
